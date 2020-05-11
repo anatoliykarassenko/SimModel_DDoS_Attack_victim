@@ -1,0 +1,2 @@
+This is the simulation model of an network node that is under a normal conditions and the DDoS attack.
+RAM, CPU, total traffic and number of allowed connections are used as indicators for tracking the node state.
